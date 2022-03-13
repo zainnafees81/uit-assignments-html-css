@@ -1,0 +1,53 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.container{
+    width: 35%;
+    padding: 5px 5px 5px 10px;
+    background-color: aliceblue;
+}
+table{
+    width: 100%;
+    line-height: 20px;
+
+}
+label{
+    margin-top: 10px;
+    line-height: 20px;
+}
+input{
+    margin-top: 10px;
+    
+}
+input:focus{
+    border-color: #719ECE !important;
+}
+.list{
+    list-style: none;
+    border: 1px solid;
+    width: 100px;
+    text-align: left;
+    padding: 2px 2px 2px 4px;
+    margin-top: 10px;
+    overflow-y: scroll;
+    color: blueviolet;
+}
+.field{
+    margin: 10px;
+    padding: 5px 5px 10px 10px;
+}
+textarea{
+    padding: 5px 5px 10px 10px;
+}
+.img{
+    justify-content: center;
+}
+.btn{
+   background-color:cadetblue;
+   padding: 10px;
+}

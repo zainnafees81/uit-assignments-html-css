@@ -1,0 +1,12 @@
+table ,tr,th,td{
+    border: 2px solid black;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.container{
+    border: 2px solid ;
+    width: 30%;
+}
+.extra{
+    padding: 0px 20px;
+}
